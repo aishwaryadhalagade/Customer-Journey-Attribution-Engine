@@ -1,4 +1,4 @@
-# Customer Journey Attribution Engine
+## Customer Journey Attribution Engine
 
 ## Project Overview
 
